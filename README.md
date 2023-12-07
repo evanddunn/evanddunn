@@ -1,4 +1,12 @@
-### Hi there 👋
+## Evan D. Dunn
+Software Engineer | Tar Heel
+***
+### 🧑🏻‍💻 Skills
+__Advanced:__ Python (Django) | JavaScript (ReactNative, React, Alpine.js) | AWS (Lambda, EC2, S3, CloudWatch, RDS, Route 53, DynamoDB, Aurora) | Expo | NestJS | Redux | Redis | Celery | HTML/CSS | Java | Unix | Git
+__Familiarity:__ Dart (Flutter) | SQL | Adobe Suite
+__Non-Technical:__ Leadership | Verbal and Written Communication | Content Writing | Agile Process Development | Customer Relations | Vendor Management
+
+
 
 <!--
 **evanddunn/evanddunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
